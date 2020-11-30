@@ -20,4 +20,4 @@ You'll also need access to a soldering station as this is a handwired project.
 This project needs one of each body side (left/right), two trim pieces, and a metal cutout (aluminum works perfectly) of the plate. Insert the threaded inserts into the trim pieces. Install the switches on the plate, then do the wiring and solder to the Proton C. Then sandwich the plate between the trim and body pieces, inserting the screws from the bottom, through the plate, and anchoring into the trim.
 
 ## Flashing
-This is built on the QMK Firmware. You'll need to setup your own build environment in order to flash the firmware to the controller. After your environment is set up, simply add the "uud73" folder to the "keyboards" directory, and then make it. 
+This is built on the QMK Firmware (https://github.com/qmk/qmk_firmware). You'll need to setup your own build environment in order to flash the firmware to the controller. After your environment is set up, simply add the "uud73" folder to the "keyboards" directory, and then make it. 
