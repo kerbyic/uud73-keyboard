@@ -7,10 +7,10 @@ Personal project, based on the XD75 keyboard. Features 2x2U spacebars and is int
 * 71x 1U keycaps
 * 2x 2U keycaps
 * 1x QMK Proton C
-* 1x Panel Mount USB-C Extension (https://www.sparkfun.com/products/15455)
-* 1x QMK Proton C (https://qmk.fm/proton-c/)
+* 1x [Panel Mount USB-C Extension](https://www.sparkfun.com/products/15455)
+* 1x [QMK Proton C](https://qmk.fm/proton-c/)
 * Wires and solder
-* 8x (minimum) M3-0.5 threaded heat insert (https://www.amazon.com/gp/product/B073W2898C/)
+* 8x (minimum) [M3-0.5 threaded heat insert](https://www.amazon.com/gp/product/B073W2898C/)
 * 8x (minimum) M3x10 hex socket screw
 
 ## Construction
@@ -23,3 +23,7 @@ More detailed build instructions (with some pictures) may come later.
 
 ## Flashing
 This is built on the QMK Firmware (https://github.com/qmk/qmk_firmware). You'll need to setup your own build environment in order to flash the firmware to the controller. After your environment is set up, simply add the "uud73" folder to the "keyboards" directory, and then make it. 
+
+## Renders
+![alt text](https://github.com/kerbyic/uud73-keyboard/blob/main/renders/uud73_Mech_Angled.png)
+![alt text](https://github.com/kerbyic/uud73-keyboard/blob/main/renders/uud73_Mech_Assembly_Keycaps3.png)
